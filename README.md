@@ -1,1 +1,4 @@
-# Lab8-Starter
+# CSE 110 Lab 8
+
+Kumiko Komori (no partners)
+
