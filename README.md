@@ -1,10 +1,10 @@
 # CSE 110 Lab 8
 
+*Note: I was granted a one day extension from Shravi due to campus wifi outages.*
+
 Kumiko Komori (no partners)
 
 [https://kmkomori.github.io/cse110-lab8/](https://kmkomori.github.io/cse110-lab8/)
-
-*Note: I was granted a one day extension from Shravi due to campus wifi outages.*
 
 ---
 
